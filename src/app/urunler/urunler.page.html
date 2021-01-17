@@ -1,0 +1,39 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title>urunler</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content id="tut">
+
+  <ion-item *ngFor="let dizim of urunler" >
+    <div>
+      <p>Marka:{{dizim.marka}}</p>
+      <p>Kategori:{{dizim.kategori}}</p>
+      <p>Urun Adı:{{dizim.urunadi}}</p>
+      <p>Fiyat:{{dizim.fiyat}}</p>
+      <br>
+      <p>Yorumlar</p>
+      <ng-container *ngFor="let yorumdizim of yorumlar" >
+       
+          <p *ngIf=" yorumdizim.urunid == dizim.urunid"> {{yorumdizim.yorum}}
+</p>
+        
+      </ng-container>
+      <form>
+        <ion-item lines="full">
+          <ion-label position="floating">Yorumun</ion-label>
+          <ion-input type="text" id={{dizim.urunid}} required></ion-input>
+        </ion-item>
+      </form>
+      <form>
+        <ion-row>
+        <ion-col>
+          <ion-button type="submit" color="primary" class="butonboyut" (click)="yorumEkle(dizim.urunid)" expand="block">Yorum  Ekle</ion-button>
+        </ion-col>
+      </ion-row>
+      </form>
+    </div>
+
+  </ion-item>
+</ion-content>

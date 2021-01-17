@@ -1,0 +1,25 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title>engelle</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <form>
+    <ion-item lines="full">
+      <ion-label position="floating">Kullanıcı Adı</ion-label>
+      <ion-input type="text" id="engellenecek_kullanici" required></ion-input>
+    </ion-item>
+    <ion-row>
+      <ion-col>
+        <ion-button type="submit" color="danger"  (click)="engelAt()" expand="block">Engelle</ion-button>
+      </ion-col>
+    </ion-row>
+    <ion-row>
+      <ion-col>
+        <ion-button type="submit" color="primary"  (click)="engelKaldir()" expand="block">Engel Kaldır</ion-button>
+      </ion-col>
+    </ion-row>
+  </form>
+  
+</ion-content>
