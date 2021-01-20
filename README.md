@@ -15,13 +15,13 @@ Kullanıcı kayıt ola basarsa registrationa yönlendirilir.
   Burada bilgiler doldurularak kayıt olma tuşuna basılır.
   Tuşa basma sonucu veri tabanında aynı mailden 
   veri tabanında olup olmadığı kontrol edilir.Yoksa kayıt tamamlanır.
-![](images/mobil3.PNG)
+  ![](images/mobil3.PNG)
 
 Kullanıcı giriş yap butonuna basarsa logine yönlendirilir.
   Gerekli bilgiler giriliğ giriş yap butonuna basılınca böyle bir 
   kullanıcı olup olmadığı kontrol edilir.Varsa admin olup olmadığı kontrol
   edilir.Buna göre yönlendirme yapılır.
-![](images/mobil4.PNG)
+  ![](images/mobil4.PNG)
 
   Kişi kullanıcı ise yönlendirilen sayfanın navigasyon barında anasayfa ve ekle
   yönlendirmeleri bulunur.Ekle de ürünler eklenilir.Ürün eklenilirken kontrol edilir
