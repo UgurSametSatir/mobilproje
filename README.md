@@ -29,6 +29,7 @@ Kullanıcı giriş yap butonuna basarsa logine yönlendirilir.
   aynı ürünün daha önceden eklenip eklenmediğine dair.Eklenmişse tekrar eklenmez.
   Ana sayfada ürünler tüm bilgileri ile getirilir.Bilgileri altında herbirene ait
   yeni yorum eklemek için bir text ve buton bulundurulur.
+  ![](images/mobil6.PNG)![](images/mobil7.PNG)
 
   Kişi admin ise yönlendirilen sayfanın navigasyon barında engelle seçeneğide  bulunur.
   Engelle kısmında engellenecek kişinin kullanıcı adı girilir.Admin engeli kaldırana kadar
