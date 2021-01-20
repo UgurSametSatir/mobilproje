@@ -1,4 +1,12 @@
+
+npm install
+npm audit fix
+ionic serve
+
 Uygulamanın amacı kullanıcıların ürünler hakkında yorum yapmasıdır.
+Veritabanı olarak firebase firestore kullandım.
+
+
 Uygulama açıldığında ilk olarak home açılır.
 Burada kayıt olma ile girişyap butonu vardır.
 Kullanıcı kayıt ola basarsa registrationa yönlendirilir.
