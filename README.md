@@ -31,10 +31,10 @@ Kullanıcı giriş yap butonuna basarsa logine yönlendirilir.
   yeni yorum eklemek için bir text ve buton bulundurulur.
   ![](images/mobil6.PNG)![](images/mobil7.PNG)
 
+  Admin maili="admin@"
+  Admin şifresi="admin"
   Kişi admin ise yönlendirilen sayfanın navigasyon barında engelle seçeneğide  bulunur.
   Engelle kısmında engellenecek kişinin kullanıcı adı girilir.Admin engeli kaldırana kadar
   bu kullanıcı uygulamaya giremez.
-  Admin maili="admin@"
-  Admin şifresi="admin"
   
   ![](images/mobil5.PNG)![](images/mobil8.PNG)
