@@ -13,8 +13,7 @@ Burada kayıt olma ile girişyap butonu vardır.
 
 Kullanıcı kayıt ola basarsa registrationa yönlendirilir.
   Burada bilgiler doldurularak kayıt olma tuşuna basılır.
-  Tuşa basma sonucu veri tabanında aynı mailden ,
-  veri tabanında olup olmadığı kontrol edilir.Yoksa kayıt tamamlanır.
+  Tuşa basma sonucu veri tabanında aynı mailden veri tabanında olup olmadığı kontrol edilir.Yoksa kayıt tamamlanır.
   ![](images/mobil3.PNG)
 
 Kullanıcı giriş yap butonuna basarsa logine yönlendirilir.
