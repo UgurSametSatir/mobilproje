@@ -9,6 +9,8 @@ Veritabanı olarak firebase firestore kullandım.
 
 Uygulama açıldığında ilk olarak home açılır.
 Burada kayıt olma ile girişyap butonu vardır.
+![](images/mobil2.PNG)
+
 Kullanıcı kayıt ola basarsa registrationa yönlendirilir.
   Burada bilgiler doldurularak kayıt olma tuşuna basılır.
   Tuşa basma sonucu veri tabanında aynı mailden 
