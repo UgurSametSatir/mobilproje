@@ -18,7 +18,8 @@ Burada bilgiler doldurularak kayıt olma tuşuna basılır.
 Tuşa basma sonucu veri tabanında aynı mailden veri tabanında olup olmadığı kontrol edilir.Yoksa kayıt tamamlanır.
 
 ![](images/mobil3.PNG)
-
+Kullanıcı  maili="samet@"
+ Kullanıcı şifresi="samet" hazırda bulunan bir kullanıcıdır.
 Kullanıcı giriş yap butonuna basarsa logine yönlendirilir.
   Gerekli bilgiler giriliğ giriş yap butonuna basılınca böyle bir 
   kullanıcı olup olmadığı kontrol edilir.Varsa admin olup olmadığı kontrol
