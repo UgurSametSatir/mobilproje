@@ -5,10 +5,12 @@ ionic serve
 
 Uygulamanın amacı kullanıcıların ürünler hakkında yorum yapmasıdır.
 Veritabanı olarak firebase firestore kullandım.
+
 ![](images/mobil1.PNG)
 
 Uygulama açıldığında ilk olarak home açılır.
 Burada kayıt olma ile girişyap butonu vardır.
+
 ![](images/mobil2.PNG)
 
 Kullanıcı kayıt ola basarsa registrationa yönlendirilir.
@@ -29,6 +31,7 @@ Kullanıcı giriş yap butonuna basarsa logine yönlendirilir.
   aynı ürünün daha önceden eklenip eklenmediğine dair.Eklenmişse tekrar eklenmez.
   Ana sayfada ürünler tüm bilgileri ile getirilir.Bilgileri altında herbirene ait
   yeni yorum eklemek için bir text ve buton bulundurulur.
+  
   ![](images/mobil6.PNG)![](images/mobil7.PNG)
 
   Admin maili="admin@"
