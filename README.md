@@ -34,5 +34,7 @@ Kullanıcı giriş yap butonuna basarsa logine yönlendirilir.
   Kişi admin ise yönlendirilen sayfanın navigasyon barında engelle seçeneğide  bulunur.
   Engelle kısmında engellenecek kişinin kullanıcı adı girilir.Admin engeli kaldırana kadar
   bu kullanıcı uygulamaya giremez.
+  Admin maili="admin@"
+  Admin şifresi="admin"
   
   ![](images/mobil5.PNG)![](images/mobil8.PNG)
